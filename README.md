@@ -1,5 +1,7 @@
 # SSSIHL ROADSHOW
 ***
+***This workshop introduced me to VLSI and RISC-V, covering chip design and semiconductor technologies. It provided insights  in pursuing careers in the microelectronics industry.***
+***
 # Used softwares
 * Virtual Box
 * VS code
